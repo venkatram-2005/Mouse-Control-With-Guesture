@@ -85,6 +85,12 @@ Make sure your webcam is connected and functional.
 
 ---
 
+## Demo 
+
+https://youtu.be/UN_ix0TPbIc
+
+---
+
 ## 🛠️ Project Structure
 
 ```
