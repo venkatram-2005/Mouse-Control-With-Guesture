@@ -45,8 +45,8 @@ pyautogui
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/hand-gesture-mouse.git
-cd hand-gesture-mouse
+git clone https://github.com/venkatram-2005/Mouse-Control-With-Guesture.git
+cd Mouse-Control-With-Guesture
 ```
 
 2. Create virtual environment (optional but recommended):
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 4. Run the application:
 
 ```bash
-python gesture_mouse.py
+python main.py
 ```
 
 Make sure your webcam is connected and functional.
@@ -82,12 +82,6 @@ Make sure your webcam is connected and functional.
 | 👍 Thumb Up             | Scroll Up      | Thumb up, all other fingers closed   |
 | 👎 Thumb Down           | Scroll Down    | Thumb down, all other fingers closed |
 | ✊ Fist                  | Pause gestures | Make a fist to pause input           |
-
----
-
-## 🖼️ Screenshots
-
-> You can add images or gifs showing gesture examples and the app in action.
 
 ---
 
