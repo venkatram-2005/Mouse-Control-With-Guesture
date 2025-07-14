@@ -1,4 +1,3 @@
-````markdown
 # 🖐️ Hand Gesture Mouse Controller (with Scroll & Click)
 
 Control your mouse using your hand gestures in real time with a webcam!
