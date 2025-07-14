@@ -4,7 +4,6 @@ Control your mouse using your hand gestures in real time with a webcam!
 
 Built using Python, OpenCV, MediaPipe, and PyAutoGUI.
 
-![Demo](assets/demo.gif) <!-- Replace with actual demo GIF or image -->
 
 ---
 
